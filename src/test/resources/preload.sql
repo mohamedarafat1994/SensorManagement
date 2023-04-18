@@ -1,0 +1,1 @@
+INSERT INTO DEVICE (id, pin, status, temprature) VALUES (101, 1234567, 'READY' , -1);COMMIT;

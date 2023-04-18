@@ -1,0 +1,7 @@
+com/vois/model/Device.class
+com/vois/controller/DeviceConfigurationController.class
+com/vois/SensorManagementApplication.class
+com/vois/service/DeviceConfigurationService.class
+com/vois/repos/DeviceRepository.class
+com/vois/controller/WarehouseInventoryController.class
+com/vois/service/WarehouseInventoryService.class
